@@ -1,0 +1,40 @@
+# Golden Western Website - Git Configuration
+# No dependencies or build artifacts to ignore
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.AppleDouble
+.LSOverride
+Thumbs.db
+Desktop.ini
+
+# IDE & Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# Node (not used, but for future reference)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build & Dist (not used in static site)
+dist/
+build/
+.cache/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Misc
+.gitkeep
+*.log
+*.tmp
+.DS_Store
