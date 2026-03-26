@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+upload.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-Uniq	ZNbtuFIYZ1voV-y9yQpDOQMvAAAAAFvdLWENRjVpQwm027LCHsKCnyYQXHLFF2Uc
+upload.wikimedia.org	TRUE	/	FALSE	1999999999	SameSite	None
+www.ulmaconstruction.com	TRUE	/	FALSE	1999999999	serverid	p0101
+
